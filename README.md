@@ -19,3 +19,15 @@ Liquidity Velocity Token (LVT) is an innovative Solana-based program designed to
 - Support staking, lending, and borrowing to further integrate LVT into the Solana DeFi ecosystem.
 
   ---
+
+ ##  🚀 Core Features
+
+- Trading & Liquidity Incentives
+
+- Trade Execution Rewards – Traders earn LVT tokens based on trade volume and frequency.
+
+- Market Maker Incentives – Additional rewards for liquidity providers ensuring low slippage.
+
+- Dynamic Fee Adjustments – Liquidity pools adjust fees based on execution velocity.
+
+- Execution Priority for Stakers – Staking LVT reduces fees and provides trade priority.
