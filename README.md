@@ -4,7 +4,7 @@ Liquidity Velocity Token (LVT) is an innovative Solana-based program designed to
 
 ***NOTE : THIS PROJECT IS STILL UNDER REVIEW***
 
-***devnet:** (https://explorer.solana.com/address/7npskT7QVWC6kddvwxfSdVHUZxihPYQmq1qYu3HnNZba?cluster=devnet)
+**devnet:** (https://explorer.solana.com/address/7npskT7QVWC6kddvwxfSdVHUZxihPYQmq1qYu3HnNZba?cluster=devnet)
 
 
 ---
