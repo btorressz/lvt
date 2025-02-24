@@ -1,3 +1,5 @@
+// No imports needed: web3, anchor, pg and more are globally available
+
 describe("Liquidity Velocity Token", () => {
   it("initialize", async () => {
     // Generate keypairs for state, treasury, and the LVT mint.
